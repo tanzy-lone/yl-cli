@@ -8,7 +8,7 @@
 
 ## 🔥 模版
 
-- ✅ 快速生成 Vue3+TS+Vite+ElementPlus+Pinia+Axios+Mock 的模版
+- ✅ 快速生成 [Vue3+TS+Vite+ElementPlus+Pinia+Axios+Mock 的模版()](https://gitee.com/sohucw/admin-pro)
 
 ## ✨ 安装
 
